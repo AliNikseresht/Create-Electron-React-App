@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-electron-app.git
+git clone https://github.com/AliNikseresht/Create-Electron-React-App
 Navigate to the project directory:
 
 bash
